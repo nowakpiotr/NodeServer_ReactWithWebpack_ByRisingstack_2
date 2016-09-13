@@ -7,7 +7,7 @@ class Hobbies extends React.Component {
       return (<li key={index}>{hobby}</li>);
     });
     return <div>
-                <h5>My hobbieszzzz:</h5>
+                <h5>My hobbieszzzzsasa:</h5>
               <ul>
                 {hobbies}
               </ul>
